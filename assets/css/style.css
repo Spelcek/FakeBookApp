@@ -1,0 +1,41 @@
+h1 {color:green; font-weight:strong;
+  font-family: Calibri;
+}
+body {background-color: #ffbf00;
+}
+
+.Iskalnik{color:green;
+font-family: Calibri;
+font-weight: bolder;
+border:15px;
+width:200px;
+height:30px;
+}
+
+#Ime {background-color: white;
+  font-family: Calibri;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  color:green;
+  border: 15px;
+  width: 200px;
+  height: 30px;
+}
+.image {
+  border: 20px black;
+}
+
+.podatki{background-color:lightgreen;
+float:left;
+text-align:left;
+}
+
+.okence{background-color: lightgreen;
+  font-family: Calibri;
+  color: black;
+  width: 200px;
+  height:30px;
+  flow-from: left;
+  text-align: left;
+}
